@@ -1,6 +1,0 @@
-C:\workspace\DIO_Set_23\Bootcamp WEX - Desenvolvimento .NET e QA\trilha-net-testes-unitarios-QA_desafio\TestesQA\Calc_Test\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
-C:\workspace\DIO_Set_23\Bootcamp WEX - Desenvolvimento .NET e QA\trilha-net-testes-unitarios-QA_desafio\TestesQA\Calc_Test\obj\Debug\netcoreapp3.1\Calc_Test.csproj.AssemblyReference.cache
-C:\workspace\DIO_Set_23\Bootcamp WEX - Desenvolvimento .NET e QA\trilha-net-testes-unitarios-QA_desafio\TestesQA\Calc_Test\obj\Debug\netcoreapp3.1\Calc_Test.GeneratedMSBuildEditorConfig.editorconfig
-C:\workspace\DIO_Set_23\Bootcamp WEX - Desenvolvimento .NET e QA\trilha-net-testes-unitarios-QA_desafio\TestesQA\Calc_Test\obj\Debug\netcoreapp3.1\Calc_Test.AssemblyInfoInputs.cache
-C:\workspace\DIO_Set_23\Bootcamp WEX - Desenvolvimento .NET e QA\trilha-net-testes-unitarios-QA_desafio\TestesQA\Calc_Test\obj\Debug\netcoreapp3.1\Calc_Test.AssemblyInfo.cs
-C:\workspace\DIO_Set_23\Bootcamp WEX - Desenvolvimento .NET e QA\trilha-net-testes-unitarios-QA_desafio\TestesQA\Calc_Test\obj\Debug\netcoreapp3.1\Calc_Test.csproj.CoreCompileInputs.cache
